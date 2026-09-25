@@ -1,0 +1,74 @@
+ADR Reporting & Documentation
+
+1. Case Information
+
+Case ID: ADR-002
+Patient: 45-year-old female
+Age: 45 years
+Sex: Female
+Indication: Bacterial respiratory tract infection
+
+2. Suspected Medication
+
+Drug Name: Amoxicillin
+Strength: 500 mg
+Dosage: 500 mg three times daily
+Route: Oral
+Duration: 5 days
+Therapeutic Indication: Treatment of bacterial respiratory tract infection
+
+3. Adverse Drug Reaction
+
+Reaction: Skin rash, itching and mild facial swelling
+Date of Onset: Day 3 after starting amoxicillin
+Description: The patient developed generalized skin rash and itching, followed by mild facial swelling.
+
+4. Action Taken
+
+Amoxicillin was discontinued after the adverse reaction was identified. The patient was monitored and received appropriate symptomatic treatment.
+
+5. Dechallenge
+
+Positive. The patient's symptoms gradually improved after discontinuation of amoxicillin.
+
+6. Rechallenge
+
+Not performed. Re-exposure was avoided because of the suspected hypersensitivity reaction.
+
+7. Concomitant Medication
+
+Paracetamol 500 mg, taken as needed for fever.
+
+8. Outcome
+
+The patient's symptoms improved after withdrawal of the suspected drug. The patient was advised to avoid further exposure to amoxicillin unless specifically evaluated by a healthcare professional.
+
+9. Seriousness Assessment
+
+Seriousness: Non-serious
+Severity: Moderate
+Hospitalization: No
+Death: No
+Life-threatening: No
+
+10. Causality Assessment
+
+The temporal relationship between amoxicillin administration and the onset of the reaction was reasonable. The symptoms improved after withdrawal of the suspected drug, and no significant alternative cause was identified.
+
+WHO-UMC Causality Category: Probable/Likely
+
+11. ADR Classification
+
+Type: Type B (Bizarre)
+Predictability: Not predictable
+Preventability: Probably preventable
+
+12. Reporter Information
+
+Reporter: Pharmacovigilance Trainee
+Reporting Date: 25 September 2026
+Report Type: Initial ADR Report
+
+13. Summary
+
+A 45-year-old female developed skin rash, itching, and mild facial swelling on Day 3 of amoxicillin therapy. The suspected drug was discontinued, after which the patient's symptoms gradually improved. Based on the temporal relationship, positive dechallenge, and absence of a more likely alternative explanation, the reaction was assessed as Probable/Likely according to the WHO-UMC causality assessment system.
